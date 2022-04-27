@@ -129,6 +129,9 @@ body {
     .header-main {
         padding-top: 30px;
     }
+    .header-main p {
+        margin-bottom: 20px;
+    }
 }
 
 .content {
