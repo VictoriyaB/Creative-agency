@@ -22,6 +22,7 @@ body {
 .header-wrap {
     background: #362b58 url(../img/bg-header.jpg);
     background-size: cover;
+    height: 100vh;
 }
 
 .header {
